@@ -71,3 +71,6 @@ columns = ['Year', 'Country', 'Happiness Rank', 'Happiness Score', 'Economy (GDP
                    'Generosity']
 filtered_data = combined_data[columns]
 data_rank = filtered_data
+
+# Data Cleaning
+data_rank.shape
