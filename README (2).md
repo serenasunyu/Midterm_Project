@@ -16,9 +16,9 @@ Create visualizations and explore the data.
 
 
 ### Step 4: 
-Get insights.
+Get insights. Switzerland, Iceland, Denmark, Norway, Finland, Netherlands and Sweden are the best places to live if you goal is to be happy according to the data. All these countries showed up in the top 10 happiest countries in the world for every year from 2015-2022. 
 ### Step 5:
-Conclusions.
+Conclusions. Canada, while not the happiest place to live in the world according to the happiness index, is still above average when it comes to happiness score. If you don't have an urgent reason to move to another country, you can safely stay here in Canada and not have to worry about being in one of the saddest countries in the world.
 
 ## Results
 Canada has a downwards trend of happiness score.
