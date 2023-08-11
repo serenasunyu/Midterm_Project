@@ -1,7 +1,6 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
 The goal of this project was to analyze the happiness score in canada and indentify any trends or intresting insights from that.
 
 ## Process
