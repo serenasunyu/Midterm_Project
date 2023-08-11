@@ -20,7 +20,7 @@ Canada has a downwards trend of happiness score.
 The top 10 countries to live in if you want to retire happy.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+A challenge for this project was getting a clear focus on the question to be answered with the data, after some EDA it became more clear.
 
 ## Future Goals
-(what would you do if you had more time?)
+If we had more time, we would try and dive more into the history of Canada during these years to see the exact reasons (if any), the happiness score continues to go down, year after year.
