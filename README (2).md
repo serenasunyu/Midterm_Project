@@ -10,6 +10,8 @@ Download the data.
 Transform the data.
 ### Step 3:
 Create visualizations and explore the data.
+![image](https://github.com/serenasunyu/Midterm_Project/assets/132075292/018e874b-a342-4ad5-8179-aad7724ef3e3)
+
 ### Step 4: 
 Get insights.
 ### Step 5:
