@@ -1,1 +1,5 @@
+# Read me
 
+---
+
+Goal: To analyze the overall happiness score in canada and discover any trends.
