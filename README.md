@@ -17,7 +17,10 @@ Create visualizations and explore the data.
 ![image](https://github.com/serenasunyu/Midterm_Project/assets/132075292/018e874b-a342-4ad5-8179-aad7724ef3e3)
 
 ![image](https://github.com/serenasunyu/Midterm_Project/assets/132075292/f3edd43f-6f2c-4df6-bb64-11b8e35097a2)
+
 ### Step 4:
+Analysis for Canada Happiness Score Trends
+### Step 5:
 Building Models
 
 ## Results
