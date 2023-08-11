@@ -8,11 +8,11 @@ The goal of this project was to analyze the happiness score in canada and indent
 Download the data.
 ### Step 2:
 Transform the data.
-## Step 3:
+### Step 3:
 Create visualizations and explore the data.
-## Step 4: 
+### Step 4: 
 Get insights.
-## Step 5:
+### Step 5:
 Conclusions.
 
 ## Results
